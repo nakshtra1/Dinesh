@@ -1,5 +1,5 @@
 const Resume={
-    Firstname : "surbhi",
+    Firstname : "tanish",
     Lastname : "Mahajan",
     Profile: "Job",
     College:"Apj abdual Kalam",
